@@ -284,7 +284,6 @@ footer {
 .midsection {
   padding-left: 30.8%;
   padding-right: 11%;
-  max-width: 1114px;
 }
 
 .customer {
@@ -503,7 +502,6 @@ footer {
   grid-template-columns: repeat(3, 1fr);
   column-gap: 8px;
   background: #E6E6EA;
-  padding-left: 592px;
   color: #5A5B6A;
   align-items: center;
 }
