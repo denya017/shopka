@@ -281,7 +281,8 @@ footer {
 }
 
 .topsection,
-.midsection {
+.midsection,
+.bottomsection {
   padding-left: 30.8%;
   padding-right: 11%;
 }
@@ -552,11 +553,11 @@ footer {
   align-items: center;
   display: flex;
   justify-content: space-between;
-  padding: 10px 214px 10px 592px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 .copyright {
-  font-family: Inter;
   font-weight: normal;
   font-size: 12px;
   line-height: 100%;
